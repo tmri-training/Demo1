@@ -34,7 +34,7 @@ github_username:  jekyll
 
 # Build settings
 markdown: GFM
-theme: cayman
+theme: slate
 plugins:
   - jekyll-feed
 
